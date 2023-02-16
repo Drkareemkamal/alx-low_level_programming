@@ -1,4 +1,4 @@
-#include <studo.h>
+#include <stdio.h>
 
 /**
  * main - Entry pts
